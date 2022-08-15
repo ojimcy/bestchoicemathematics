@@ -10,6 +10,12 @@
       "StackName": "amplify-bcmaths-dev-153322",
       "StackId": "arn:aws:cloudformation:us-east-1:085770931126:stack/amplify-bcmaths-dev-153322/39ef1780-1ca7-11ed-84cf-0ecf20204b4f",
       "AmplifyAppId": "d3psqo4o3xvptq"
+    },
+    "categories": {
+      "auth": {
+        "bcmaths5dd2a800": {},
+        "true": {}
+      }
     }
   }
 }
